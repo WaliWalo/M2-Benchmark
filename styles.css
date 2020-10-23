@@ -1,0 +1,52 @@
+.bg-color-light {
+  background-color: #d8d8d8;
+}
+
+.nav-bg {
+  background-color: #343a40;
+}
+
+.carousel-caption {
+  bottom: 2px;
+}
+
+.carousel-caption .row {
+  font-size: xx-large;
+}
+
+.card-body p.text-muted {
+  text-decoration: line-through;
+}
+
+.ads .container:last-of-type {
+  background-image: url(assets/carousel1.jpg);
+  background-position: center;
+}
+
+i.fab.fa-cc-visa,
+i.fas.fa-square {
+  color: white;
+  font-size: 70px;
+}
+
+.bannerImg {
+  opacity: 1;
+  box-shadow: rgba(22, 28, 25, 0.75) 0px 0px 0px 1000px inset;
+  height: 450px;
+}
+
+.card-img-overlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.badge {
+  margin-right: 5px;
+}
+
+table img {
+  width: 200px;
+  height: 100px;
+}
